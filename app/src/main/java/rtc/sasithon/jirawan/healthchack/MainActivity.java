@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //Bind Widget
         headImageView = (ImageView) findViewById(R.id.imageView);
         bodyImageView = (ImageView) findViewById(R.id.imageView2);
