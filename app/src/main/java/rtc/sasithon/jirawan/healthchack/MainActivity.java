@@ -33,17 +33,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
 
-        int intIndex = 1;
+        int intIndex = 0;
 
         switch (view.getId()) {
             case R.id.imageView:
-                intIndex = 1;
+                intIndex = 0;
                 break;
             case R.id.imageView2:
-                intIndex = 2;
+                intIndex = 1;
                 break;
             case R.id.imageView3:
-                intIndex = 3;
+                intIndex = 2;
                 break;
         }   // switch
 

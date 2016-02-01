@@ -45,7 +45,7 @@ public class DiseaseAdapter extends BaseAdapter{
         LayoutInflater objLayoutInflater = (LayoutInflater) objContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         View objView1 = objLayoutInflater.inflate(R.layout.disease_listview, parent, false);
 
-        ImageView iconImageView = (ImageView) objView1.findViewById(R.id.imageView4);
+        ImageView iconImageView = (ImageView) objView1.findViewById(R.id.imvIcon);
         iconImageView.setImageResource(iconAnInt);
 
         TextView titleTextView = (TextView) objView1.findViewById(R.id.textView2);
