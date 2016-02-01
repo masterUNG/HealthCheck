@@ -1,5 +1,6 @@
 package rtc.sasithon.jirawan.healthchack;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -16,6 +17,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Bind Widget
+        headImageView = (ImageView) findViewById(R.id.imageView);
+        bodyImageView = (ImageView) findViewById(R.id.imageView2);
+        buttonImageView = (ImageView) findViewById(R.id.imageView3);
+
         //set Controller to ImageView
         headImageView.setOnClickListener(this);
         bodyImageView.setOnClickListener(this);
@@ -25,6 +31,25 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View view) {
+
+        int intIndex = 1;
+
+        switch (view.getId()) {
+            case R.id.imageView:
+                intIndex = 1;
+                break;
+            case R.id.imageView2:
+                intIndex = 2;
+                break;
+            case R.id.imageView3:
+                intIndex = 3;
+                break;
+        }   // switch
+
+        Intent objIntent = new Intent(MainActivity.this, ListDisease.class);
+        objIntent.putExtra("Index", intIndex);
+        startActivity(objIntent);
+
 
     }   // onClick
 
