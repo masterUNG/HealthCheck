@@ -9,9 +9,10 @@ public class ListDisease extends AppCompatActivity {
 
     //Explicit
     private TextView showHeadTextView;
-    private String[] showHeadStrings;
+    private String[] showHeadStrings, titleStrings;
     private int[] iconInts;
     private ListView myListView;
+    private int intIndex;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,16 +32,48 @@ public class ListDisease extends AppCompatActivity {
         //กำหนด icon
         iconInts = new int[3];
         iconInts[0] = R.drawable.icon_;
-        iconInts[1] = R.drawable.icon_;
-        iconInts[2] = R.drawable.icon_;
+        iconInts[1] = R.drawable.icon_body;
+        iconInts[2] = R.drawable.icon_button;
 
         //Receive from intent
-        int intIndex = getIntent().getIntExtra("Index", 0);
+        intIndex = getIntent().getIntExtra("Index", 0);
 
         //Show View
         showHeadTextView.setText(showHeadStrings[intIndex]);
 
+        switch (intIndex) {
+            case 0:
+                titleStrings = getResources().getStringArray(R.array.head_1);
+                break;
+            case 1:
+                titleStrings = getResources().getStringArray(R.array.body_1);
+                break;
+            case 2:
+                titleStrings = getResources().getStringArray(R.array.botton_1);
+                break;
+            default:
+                titleStrings = getResources().getStringArray(R.array.head_1);
+                break;
 
-    }   // Main Method
+
+        }   // swift
+
+        //Show ListView
+
+        createListView();
+
+    }   //onCreate
+
+    private void createListView() {
+
+
+        DiseaseAdapter objDiseaseAdapter = new DiseaseAdapter(ListDisease.this,
+                iconInts[intIndex], titleStrings);
+
+        myListView.setAdapter(objDiseaseAdapter);
+
+    }   // createListview
+
+
 
 }   // Main Class
