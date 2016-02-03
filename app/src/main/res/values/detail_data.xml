@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="head_detail">
+
+        <item>head1</item>
+        <item>head2</item>
+        <item>head3</item>
+        <item>head4</item>
+        <item>head5</item>
+        <item>head6</item>
+        <item>head7</item>
+        <item>head8</item>
+
+
+    </string-array>
+
+    <string-array name="body_detail">
+
+        <item>body1</item>
+        <item>body2</item>
+        <item>body3</item>
+        <item>body4</item>
+        <item>body5</item>
+        <item>body6</item>
+        <item>body7</item>
+        <item>body8</item>
+        <item>body9</item>
+        <item>body10</item>
+        <item>body11</item>
+        <item>body12</item>
+        <item>body13</item>
+        <item>body14</item>
+        <item>body15</item>
+
+    </string-array>
+
+    <string-array name="botton_detail">
+
+        <item>botton1</item>
+        <item>botton2</item>
+        <item>botton3</item>
+        <item>botton4</item>
+        <item>botton5</item>
+
+    </string-array>
+
+</resources>

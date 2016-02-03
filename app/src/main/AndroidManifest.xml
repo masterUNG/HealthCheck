@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListDisease"></activity>
+        <activity android:name=".ListDisease" />
+        <activity android:name=".DetailActivity"></activity>
     </application>
 
 </manifest>
