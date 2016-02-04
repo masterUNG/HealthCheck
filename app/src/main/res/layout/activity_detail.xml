@@ -18,20 +18,12 @@
         android:textSize="30dp"
         android:layout_centerHorizontal="true" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="clickBackDetail"
-        android:text="Back"
-        android:id="@+id/button"
-        android:layout_alignParentBottom="true" />
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/scrollView"
         android:layout_below="@+id/textView3"
-        android:layout_above="@+id/button"
+        android:layout_above="@+id/linButton"
         android:layout_margin="15dp"
         android:padding="15dp"
         android:background="#b4ffffff">
@@ -43,4 +35,29 @@
             android:id="@+id/textView4"
             android:textSize="20sp" />
     </ScrollView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linButton"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:onClick="clickBackDetail"
+            android:text="Back"
+            android:id="@+id/button"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Check"
+            android:id="@+id/button2"
+            android:layout_weight="1"
+            android:onClick="clickCheck" />
+    </LinearLayout>
 </RelativeLayout>

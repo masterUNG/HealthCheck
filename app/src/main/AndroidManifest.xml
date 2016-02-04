@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ListDisease" />
-        <activity android:name=".DetailActivity"></activity>
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".CheckActivity"></activity>
     </application>
 
 </manifest>

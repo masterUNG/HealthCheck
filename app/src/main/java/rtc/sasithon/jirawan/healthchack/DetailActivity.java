@@ -1,5 +1,6 @@
 package rtc.sasithon.jirawan.healthchack;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,6 +23,11 @@ public class DetailActivity extends AppCompatActivity {
         showView();
 
     }   // Main Method
+
+    public void clickCheck(View view) {
+        Intent objIntent = new Intent(DetailActivity.this, CheckActivity.class);
+        startActivity(objIntent);
+    }
 
     public void clickBackDetail(View view) {
         finish();
