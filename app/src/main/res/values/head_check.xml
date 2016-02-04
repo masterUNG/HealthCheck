@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="head_check1">
+
+        <item>head check1</item>
+        <item>head check1</item>
+        <item>head check1</item>
+        <item>head check1</item>
+
+    </string-array>
+
+    <string-array name="head_check2">
+
+        <item>head check2</item>
+        <item>head check2</item>
+        <item>head check2</item>
+        <item>head check2</item>
+
+    </string-array>
+
+    <string-array name="head_check3">
+
+        <item>head check3</item>
+        <item>head check3</item>
+        <item>head check3</item>
+        <item>head check3</item>
+
+    </string-array>
+
+    <string-array name="head_check4">
+
+        <item>head check4</item>
+        <item>head check4</item>
+        <item>head check4</item>
+        <item>head check4</item>
+
+    </string-array>
+
+    <string-array name="head_check5">
+
+        <item>head check5</item>
+        <item>head check5</item>
+        <item>head check5</item>
+        <item>head check5</item>
+
+    </string-array>
+
+    <string-array name="head_check6">
+
+        <item>head check6</item>
+        <item>head check6</item>
+        <item>head check6</item>
+        <item>head check6</item>
+
+    </string-array>
+
+    <string-array name="head_check7">
+
+        <item>head check7</item>
+        <item>head check7</item>
+        <item>head check7</item>
+        <item>head check7</item>
+
+    </string-array>
+
+    <string-array name="head_check8">
+
+        <item>head check8</item>
+        <item>head check8</item>
+        <item>head check8</item>
+        <item>head check8</item>
+
+    </string-array>
+
+</resources>
