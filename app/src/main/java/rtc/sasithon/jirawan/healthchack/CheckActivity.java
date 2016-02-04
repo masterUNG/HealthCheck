@@ -65,10 +65,20 @@ public class CheckActivity extends AppCompatActivity {
     public void clickHealthCheck(View view) {
 
         int intFullScore = checkStrings.length;
+        String strAnswer = null;
+        double douAnswer = ((double) scoreAnInt / (double) intFullScore) * 100;
+        Log.d("check", "FullScore = " + intFullScore);
+        Log.d("check", "douAnswer = " + douAnswer);
+        if (douAnswer <= 50.0) {
+            strAnswer = "มีแนวโน้มว่าจะไม่ป่วย คะ";
+        } else {
+            strAnswer = "มีแนวโน้มว่าจะป่วย คะ";
+        }
 
         AlertDialog.Builder objBuilder = new AlertDialog.Builder(this);
         objBuilder.setTitle("ความคาดหมาย");
-        objBuilder.setMessage("คะแนนของคุณ = " + Integer.toString(scoreAnInt) + " / " + Integer.toString(intFullScore));
+        objBuilder.setMessage("คะแนนของคุณ = " + Integer.toString(scoreAnInt) + " / "
+                + Integer.toString(intFullScore) + "\n" + strAnswer);
         objBuilder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
