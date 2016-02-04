@@ -29,7 +29,7 @@ public class CheckActivity extends AppCompatActivity {
         titleString = getIntent().getStringExtra("Title");
         titleTextView.setText(titleString);
 
-        String[] checkStrings = {"test1", "test1", "test1", "test1", "test1", "test1"};
+        String[] checkStrings = getIntent().getStringArrayExtra("ListCheck");
         ArrayAdapter<String> objArrayAdapter = new ArrayAdapter<String>(this, R.layout.my_check_listview, checkStrings);
         checkListView.setAdapter(objArrayAdapter);
         checkListView.setItemsCanFocus(false);

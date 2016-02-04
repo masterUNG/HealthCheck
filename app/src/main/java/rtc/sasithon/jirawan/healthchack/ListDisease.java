@@ -86,6 +86,10 @@ public class ListDisease extends AppCompatActivity {
                 Intent objIntent = new Intent(ListDisease.this, DetailActivity.class);
                 objIntent.putExtra("Title", titleStrings[i]);
                 objIntent.putExtra("Detail", detailStrings[i]);
+
+                objIntent.putExtra("main", intIndex); // head = 0, body = 1, botton = 2
+                objIntent.putExtra("submain", i); // position Click
+
                 startActivity(objIntent);
 
             }   // event
