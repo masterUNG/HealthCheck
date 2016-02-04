@@ -34,6 +34,9 @@ public class CheckActivity extends AppCompatActivity {
         checkListView.setAdapter(objArrayAdapter);
         checkListView.setItemsCanFocus(false);
         checkListView.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
+
+        checkListView.setOnItemClickListener(new CheckBoxClick());
+
     }   // Main Method
 
 
