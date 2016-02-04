@@ -10,6 +10,7 @@ public class DetailActivity extends AppCompatActivity {
 
     //Explicit
     private TextView titleTextView, detailTextView;
+    private String strTitle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +28,7 @@ public class DetailActivity extends AppCompatActivity {
 
     public void clickCheck(View view) {
         Intent objIntent = new Intent(DetailActivity.this, CheckActivity.class);
+        objIntent.putExtra("Title", strTitle);
         startActivity(objIntent);
     }
 
@@ -35,7 +37,7 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     private void showView() {
-        String strTitle = getIntent().getStringExtra("Title");
+        strTitle = getIntent().getStringExtra("Title");
         titleTextView.setText(strTitle);
 
         String strDetail = getIntent().getStringExtra("Detail");
