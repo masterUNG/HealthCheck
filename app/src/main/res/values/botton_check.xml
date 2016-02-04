@@ -1,2 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <string-array name="botton_check1">
+
+        <item>botton_check1</item>
+        <item>botton_check1</item>
+        <item>botton_check1</item>
+        <item>botton_check1</item>
+
+    </string-array>
+    <string-array name="botton_check2">
+
+        <item>botton_check2</item>
+        <item>botton_check2</item>
+        <item>botton_check2</item>
+        <item>botton_check2</item>
+
+    </string-array>
+    <string-array name="botton_check3">
+
+        <item>botton_check3</item>
+        <item>botton_check3</item>
+        <item>botton_check3</item>
+        <item>botton_check3</item>
+
+    </string-array>
+    <string-array name="botton_check4">
+
+        <item>botton_check4</item>
+        <item>botton_check4</item>
+        <item>botton_check4</item>
+        <item>botton_check4</item>
+
+    </string-array>
+    <string-array name="botton_check5">
+
+        <item>botton_check5</item>
+        <item>botton_check5</item>
+        <item>botton_check5</item>
+        <item>botton_check5</item>
+
+    </string-array>
+
+</resources>

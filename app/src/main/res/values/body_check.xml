@@ -1,2 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <string-array name="body_check1">
+
+        <item>body_check1</item>
+        <item>body_check1</item>
+        <item>body_check1</item>
+        <item>body_check1</item>
+
+    </string-array>
+    <string-array name="body_check2">
+
+        <item>body_check2</item>
+        <item>body_check2</item>
+        <item>body_check2</item>
+        <item>body_check2</item>
+
+    </string-array>
+    <string-array name="body_check3">
+
+        <item>body_check3</item>
+        <item>body_check3</item>
+        <item>body_check3</item>
+        <item>body_check3</item>
+
+    </string-array>
+    <string-array name="body_check4">
+
+        <item>body_check4</item>
+        <item>body_check4</item>
+        <item>body_check4</item>
+        <item>body_check4</item>
+
+    </string-array>
+    <string-array name="body_check5">
+
+        <item>body_check5</item>
+        <item>body_check5</item>
+        <item>body_check5</item>
+        <item>body_check5</item>
+
+    </string-array>
+    <string-array name="body_check6">
+
+        <item>body_check6</item>
+        <item>body_check6</item>
+        <item>body_check6</item>
+        <item>body_check6</item>
+
+    </string-array>
+    <string-array name="body_check7">
+
+        <item>body_check7</item>
+        <item>body_check7</item>
+        <item>body_check7</item>
+        <item>body_check7</item>
+
+    </string-array>
+    <string-array name="body_check8">
+
+        <item>body_check8</item>
+        <item>body_check8</item>
+        <item>body_check8</item>
+        <item>body_check8</item>
+
+    </string-array>
+    <string-array name="body_check9">
+
+        <item>body_check9</item>
+        <item>body_check9</item>
+        <item>body_check9</item>
+        <item>body_check9</item>
+
+    </string-array>
+    <string-array name="body_check10">
+
+        <item>body_check10</item>
+        <item>body_check10</item>
+        <item>body_check10</item>
+        <item>body_check10</item>
+
+    </string-array>
+    <string-array name="body_check11">
+
+        <item>body_check11</item>
+        <item>body_check11</item>
+        <item>body_check11</item>
+        <item>body_check11</item>
+
+    </string-array>
+    <string-array name="body_check12">
+
+        <item>body_check12</item>
+        <item>body_check12</item>
+        <item>body_check12</item>
+        <item>body_check12</item>
+
+    </string-array>
+    <string-array name="body_check13">
+
+        <item>body_check13</item>
+        <item>body_check13</item>
+        <item>body_check13</item>
+        <item>body_check13</item>
+
+    </string-array>
+    <string-array name="body_check14">
+
+        <item>body_check14</item>
+        <item>body_check14</item>
+        <item>body_check14</item>
+        <item>body_check14</item>
+
+    </string-array>
+    <string-array name="body_check15">
+
+        <item>body_check15</item>
+        <item>body_check15</item>
+        <item>body_check15</item>
+        <item>body_check15</item>
+
+    </string-array>
+
+</resources>
