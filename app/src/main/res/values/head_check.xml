@@ -3,73 +3,104 @@
 
     <string-array name="head_check1">
 
-        <item>head check1</item>
-        <item>head check1</item>
-        <item>head check1</item>
-        <item>head check1</item>
+        <item>มีอาการไม่สบายเล็กน้อยนำมาก่อน 1 อาทิตย์</item>
+        <item>เบื่ออาหาร</item>
+        <item>ปวดเมื่อย</item>
+        <item>คลื่นไส้ อาเจียน</item>
+        <item>มีปัสสาวะสีเข้ม</item>
+        <item>ตัวเหลือง</item>
+        <item>ตาเหลือง</item>
+        <item>จุกแน่นบริเวณใต้ชายโครงขวา</item>
+        <item>มีผื่นที่ผิวหนัง</item>
 
     </string-array>
 
     <string-array name="head_check2">
 
-        <item>head check2</item>
-        <item>head check2</item>
-        <item>head check2</item>
-        <item>head check2</item>
+        <item>มีไข้</item>
+        <item>ต่อมนํ้าลายบวมโตและปวด</item>
+        <item>ข้างหูหรือ ขากรรไกรมีอาการปวด บวม แดง ร้อน</item>
+        <item>ไม่สามารถเคี้ยวหรืออ้าปากได้ถนัด</item>
+        <item>มีอาการคางบวม</item>
+
 
     </string-array>
 
     <string-array name="head_check3">
 
-        <item>head check3</item>
-        <item>head check3</item>
-        <item>head check3</item>
-        <item>head check3</item>
+        <item>มีไข้และไอ</item>
+        <item>แน่หน้าอก</item>
+        <item>หายใจหอบเหนื่อย</item>
+        <item>ปวดท้อง</item>
+        <item>ท้องร่วง</item>
+
 
     </string-array>
 
     <string-array name="head_check4">
 
-        <item>head check4</item>
-        <item>head check4</item>
-        <item>head check4</item>
-        <item>head check4</item>
+        <item>มีอาการอ่อนเพลียอย่างเฉียบพลัน</item>
+        <item>เบื่ออาหาร คลื่นไส้</item>
+        <item>ปวดศรีษะอย่างรุนแรง</item>
+        <item>ปวดแขนขา ปวดข้อ ปวดรอบกระบอกตา</item>
+        <item>ไข้สูง 39-40 องศาในเด็ก ผู้ใหญ่ไข้ประมาณ 38 องศา</item>
+        <item>เจ็บคอคอแดง มีน้ำมูกไหล</item>
+        <item>ไอแห้งๆ ตาแดง</item>
+        <item>มีอาการคลื่นไส้อาเจียน</item>
+        <item>อาการไข้ คลื่นไส้อาเจียนจะหายใน 2 วัน แต่อาการน้ำมูกไหลคัดจมูกอาจจะอยู่ได้ 1 สัปดาห์</item>
+
 
     </string-array>
 
     <string-array name="head_check5">
 
-        <item>head check5</item>
-        <item>head check5</item>
-        <item>head check5</item>
-        <item>head check5</item>
+        <item>มีไข้สูงเกิดขึ้นอย่างเฉียบพลัน</item>
+        <item>มีจุดเลือดออกเล็กๆกระจายอยู่ตามแขน ขา ลำตัว รักแร้</item>
+        <item>มีเลือดกำเดาหรือเลือดออกตามไรฟัน</item>
+        <item>อาเจียนและถ่ายอุจจาระเป็นเลือด ซึ่งมักจะเป็นสีดำ</item>
+        <item>อาการเลือดออกในทางเดินอาหาร</item>
+
 
     </string-array>
 
     <string-array name="head_check6">
 
-        <item>head check6</item>
-        <item>head check6</item>
-        <item>head check6</item>
-        <item>head check6</item>
+        <item>มีอาการไข้สูง</item>
+        <item>เจ็บคอเจ็บในปากกลืนน้ำลายไม่ได้ ไม่กินอาหาร</item>
+        <item>พบตุ่มแผลในปาก</item>
+        <item>ปวดศีรษะ</item>
+        <item>พบตุ่มพอง บริเวณด้านข้างของนิ้วมือ นิ้วเท้า บางครั้งพบที่ฝ่ามือ ฝ่าเท้า</item>
+        <item>เบื่ออาหาร</item>
+        <item>หงุดหงิด</item>
+        <item>ปวดศีรษะ ปวดหลัง อาจมีอาเจียน เจ็บคอ น้ำลายไหล</item>
+
 
     </string-array>
 
     <string-array name="head_check7">
 
-        <item>head check7</item>
-        <item>head check7</item>
-        <item>head check7</item>
-        <item>head check7</item>
+        <item>ไอแห้งๆไม่มีเสมหะ</item>
+        <item>ไอเสมหะมีเลือดออก</item>
+        <item>เส้นเลือดที่ผนังฝีในปอดแตก</item>
+        <item>การติดเชื้อราในปอด</item>
+
 
     </string-array>
 
     <string-array name="head_check8">
 
-        <item>head check8</item>
-        <item>head check8</item>
-        <item>head check8</item>
-        <item>head check8</item>
+        <item>เหนื่อยง่าย</item>
+        <item>อ่อนเพลีย</item>
+        <item>นอนไม่หลับ</item>
+        <item>มือสั่น</item>
+        <item>มักขี้ร้อน</item>
+        <item>หงุดหงิดง่าย</item>
+        <item>น้ำหนักตัวลดลงอย่างรวดเร็ว</item>
+        <item>กล้ามเนื้อ่อนแรง</item>
+        <item>แขนขาไม่มีแรง</item>
+        <item>กลืนลำบาก</item>
+        <item>มีภาวะอัมพาตเป็นครั้งคราว</item>
+
 
     </string-array>
 

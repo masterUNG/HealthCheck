@@ -3,42 +3,53 @@
 
     <string-array name="botton_check1">
 
-        <item>botton_check1</item>
-        <item>botton_check1</item>
-        <item>botton_check1</item>
-        <item>botton_check1</item>
+        <item>มีอาการไข้สูง1</item>
+        <item>เจ็บคอเจ็บในปากกลืนน้ำลายไม่ได้ ไม่กินอาหาร</item>
+        <item>พบตุ่มแผลในปาก ส่วนใหญ่พบที่เพดานอ่อนลิ้น</item>
+        <item>ปวดศีรษะ</item>
+        <item>พบตุ่มพองสีขาวขุ่นบนฐานรอบสีแดง บริเวณด้านข้างของนิ้วมือ นิ้วเท้า บางครั้งพบที่ฝ่ามือ ฝ่าเท้า ส้นเท้า</item>
+        <item>เบื่ออาหาร</item>
+        <item>จะหงุดหงิด</item>
+
+
 
     </string-array>
     <string-array name="botton_check2">
 
-        <item>botton_check2</item>
-        <item>botton_check2</item>
-        <item>botton_check2</item>
-        <item>botton_check2</item>
+        <item>จะมีอาการหนังตาตก</item>
+        <item>ตามัวหรือเห็นภาพซ้อน</item>
+        <item>พูดไม่ชัด</item>
+        <item>เคี้ยวหรือกลืนลำบาก</item>
+        <item>มีอาการอ่อนแรงแขนหรือขา</item>
+        <item>กล้ามเนื้ออ่อนแรงง่าย</item>
+        <item>หายใจลำบาก</item>
+
 
     </string-array>
     <string-array name="botton_check3">
 
-        <item>botton_check3</item>
-        <item>botton_check3</item>
-        <item>botton_check3</item>
-        <item>botton_check3</item>
+        <item>ปัสสาวะบ่อยหรือต้องการปัสสาวะทันที</item>
+        <item>ปัสสาวะนาน ปัสสาวะอ่อน ปัสสาวะสะดุด (ขัดเบา) ปัสสาวะเป็นหยดๆ</item>
+        <item>รู้สึกปวดขณะถ่ายปัสสาวะ</item>
+        <item>ปัสสาวะหลายครั้งในตอนกลางคืน</item>
+        <item>มีเลือดปนออกมาในปัสสาวะ</item>
 
     </string-array>
     <string-array name="botton_check4">
 
-        <item>botton_check4</item>
-        <item>botton_check4</item>
-        <item>botton_check4</item>
-        <item>botton_check4</item>
+        <item>อาการข้ออักเสบเฉียบพลัน</item>
+        <item>โรคข้ออักเสบเรื้อรัง</item>
+        <item>การเกิดนิ่วกรดยูริกในทางเดินปัสสาวะ </item>
+        <item>มีภาวะแทรกซ้อนทางระบบหัวใจและหลอดเลือด</item>
+        <item>ทำให้ไตทำงานบกพร่อง</item>
 
     </string-array>
     <string-array name="botton_check5">
 
-        <item>botton_check5</item>
-        <item>botton_check5</item>
-        <item>botton_check5</item>
-        <item>botton_check5</item>
+        <item>มีเลือดออกผิดปกติ </item>
+        <item>มีเลือดออกหลังจากหมดประจำเดือนแล้ว </item>
+        <item>มีอาการตกขาวซึ่งอาจจะมีเลือดปน</item>
+        <item>มีอาการเจ็บขณะร่วมเพศ</item>
 
     </string-array>
 

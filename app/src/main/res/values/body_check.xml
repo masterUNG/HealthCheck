@@ -3,122 +3,177 @@
 
     <string-array name="body_check1">
 
-        <item>body_check1</item>
-        <item>body_check1</item>
-        <item>body_check1</item>
-        <item>body_check1</item>
+        <item>อาการปวดเสบร้อนบริเวณหน้าอก และลิ้มปี่ที่เรียกว่าร้อนใน (heart burn) บางครั้งอาจจะร้าวไปที่คอได้</item>
+        <item>รู้สึกมีก้อนอยู่ในคอ</item>
+        <item>กลืนลำบาก หรือกลืนแล้วเจ็บ</item>
+        <item>เจ็บคอหรือแสบลิ้นเรื้อรัง โดยเฉพาะในตอนเช้า</item>
+        <item>รู้สึกเหมือนมีรสขมของน้ำดี หรือมีรสเปรี้ยวของกรดในคอหรือปาก</item>
+        <item>มีเสมหะอยู่ในคอ หรือระคอตลอดเวลา</item>
+        <item>เรอบ่อย คลื่นไส้</item>
+        <item>รู้สึกจุกแน่นอยู่ในหน้าอก คล้ายอาหารไม่ย่อย</item>
+
 
     </string-array>
     <string-array name="body_check2">
 
-        <item>body_check2</item>
-        <item>body_check2</item>
-        <item>body_check2</item>
-        <item>body_check2</item>
+        <item>มีไข้สูงเกิดขึ้นอย่างเฉียบพลัน</item>
+        <item>มีจุดเลือดออกเล็กๆกระจายอยู่ตามแขน ขา ลำตัว รักแร้</item>
+        <item>มีเลือดกำเดาหรือเลือดออกตามไรฟัน</item>
+        <item>อาเจียนและถ่ายอุจจาระเป็นเลือด ซึ่งมักจะเป็นสีดำ</item>
+        <item>อาการเลือดออกในทางเดินอาหาร</item>
 
     </string-array>
     <string-array name="body_check3">
 
-        <item>body_check3</item>
-        <item>body_check3</item>
-        <item>body_check3</item>
-        <item>body_check3</item>
+        <item>ไข้สูง</item>
+        <item>ปวดศรีษะ</item>
+        <item>อาเจียน</item>
+        <item>คอแข็ง</item>
+        <item>ซึมลง</item>
+        <item>ผื่นตามแขนขา</item>
+        <item>ทนแสงจ้าๆไม่ได้</item>
+
 
     </string-array>
     <string-array name="body_check4">
 
-        <item>body_check4</item>
-        <item>body_check4</item>
-        <item>body_check4</item>
-        <item>body_check4</item>
+        <item>มีอาการขาดนํ้า </item>
+        <item>ขาดแร่ธาตุอย่างรวดเร็ว</item>
+        <item>ถ่ายอุจจาระไม่หยุด</item>
+        <item>อาจช็อค</item>
 
     </string-array>
     <string-array name="body_check5">
 
-        <item>body_check5</item>
-        <item>body_check5</item>
-        <item>body_check5</item>
-        <item>body_check5</item>
+        <item>ถ่ายอุจจาระน้อยกว่า 3 ครั้งต่อสัปดาห์</item>
+        <item>ต้องเบ่งมากกว่าปกติ</item>
+        <item>อุจจาระเป็นก้อนแข็ง</item>
+        <item>รู้สึกถ่ายอุจจาระไม่สุด</item>
+        <item>มีความรู้สึกว่าถ่ายไม่ออกเนื่องจากมีสิ่งอุดกั้นบริเวณทวารหนัก</item>
 
     </string-array>
     <string-array name="body_check6">
 
-        <item>body_check6</item>
-        <item>body_check6</item>
-        <item>body_check6</item>
-        <item>body_check6</item>
+        <item>มีไข้</item>
+        <item>อ่อนเพลีย</item>
+        <item>เบื่ออาหาร</item>
+        <item>คลื่นไส้อาเจียน</item>
+        <item>แน่นชายโครงขวา</item>
+        <item>ท้องร่วง</item>
+        <item>ปัสสาวะสีเข็ม อุจาระซีด</item>
+        <item>และ มีอาการตัวเหลืองตาเหลืองที่เรียกว่าดีซ่าน</item>
+        <item>โดยทั่วไปอากาจะหายไปใน 2 เดือน บางรายอาการอยู่ได้ 6 เดือน ผู้ป่วยมักจะมีอาการหลังจากได้รับเชื้อ 28 วัน (15-50 วัน)</item>
+        <item>ผู้ใหญ่จะมีอาการและความรุนแรงมากกว่าเด็ก ผู้ป่วยส่วนใหญ่อาการอาจจะไม่ครบทุกอย่าง</item>
 
     </string-array>
     <string-array name="body_check7">
 
-        <item>body_check7</item>
-        <item>body_check7</item>
-        <item>body_check7</item>
-        <item>body_check7</item>
+        <item>ก้อนเนื้อปลิ้นจากภายในขณะเบ่งถ่ายอุจจาระ และยุบกลับเข้าไปเมื่อหยุดเบ่ง เมื่อเป็นมากต้องดันจึงจะกลับเข้าไป</item>
+        <item>มีเลือดแดงสดหยดออกมา</item>
+        <item>หลอดเลือดจะบวมออกมาถึงปากทวารหนัก เห็นเป็นก้อนเนื้อนิ่ม ปลิ้นโผล่ออกมานอกทวารหนัก</item>
+        <item>มีอาการคันรอบทวารหนัก</item>
+        <item>มีมูกหลังจากถ่ายอุจาระ</item>
+        <item>มีลิ่มเลือดเกิดในริดสีดวงที่โป่งพองจะก่ออาการปวด เจ็บ บวม และก่ออาการระคายเคืองบริเวณรอบปากทวารหนัก และอาการคัน</item>
+
 
     </string-array>
     <string-array name="body_check8">
 
-        <item>body_check8</item>
-        <item>body_check8</item>
-        <item>body_check8</item>
-        <item>body_check8</item>
+        <item>มีอาการหนังตาตก</item>
+        <item>ตามัวหรือเห็นภาพซ้อน</item>
+        <item>พูดไม่ชัด</item>
+        <item>เคี้ยวหรือกลืนลำบาก</item>
+        <item>มีอาการอ่อนแรงแขนหรือขา</item>
+        <item>กล้ามเนื้ออ่อนแรงง่าย</item>
+        <item>หายใจลำบาก</item>
+
 
     </string-array>
     <string-array name="body_check9">
 
-        <item>body_check9</item>
-        <item>body_check9</item>
-        <item>body_check9</item>
-        <item>body_check9</item>
+        <item>ปวดหน่วงบริเวณท้องน้อย</item>
+        <item>ปวดท้องเวลาปัสสาวะ</item>
+        <item>ปัสสาวะบ่อย</item>
+        <item>ปัสสาวะไม่สุด</item>
+        <item>กลั้นปัสสาวะไม่ได้</item>
+        <item>ปัสสาวะกลิ่นเหม็น</item>
+        <item>สีขุ่น</item>
+        <item>มีเลือดปนปัสสาวะ</item>
 
     </string-array>
     <string-array name="body_check10">
 
-        <item>body_check10</item>
-        <item>body_check10</item>
-        <item>body_check10</item>
-        <item>body_check10</item>
+        <item>อาการเจ็บหน้าอก</item>
+        <item>มีอาการเจ็บหน้าอกเวลาทำงานหรือออกกำลังกาย หากเจ็บหน้าอกขณะพัก</item>
+        <item>เดินหรือขึ้นบันได แต่การทำงานหนักหรือเร็วและแรงจะทำให้เกิดเจ็บหน้าอก</item>
+        <item>เดินธรรมดาก็เจ็บหน้าอก</item>
+
+
 
     </string-array>
     <string-array name="body_check11">
 
-        <item>body_check11</item>
-        <item>body_check11</item>
-        <item>body_check11</item>
-        <item>body_check11</item>
+        <item>มีไข้</item>
+        <item>มีอาการปวดหัว ปวดเมื่อยตามตัว ปวดกล้ามเนื้อ</item>
+        <item>มีผื่นแดงเม็ดเล็กๆ </item>
+        <item>มีอาการคัน</item>
+        <item>มีตุ่มพองใสเยอะขึ้นเรื่อยๆ ลามไปที่คอ สามารถขึ้นที่หน้า ศีรษะ แขนขา และลามไปได้ทั้งตัว </item>
+
 
     </string-array>
     <string-array name="body_check12">
 
-        <item>body_check12</item>
-        <item>body_check12</item>
-        <item>body_check12</item>
-        <item>body_check12</item>
+        <item>อุจาระเหลวกับอุจาระแข็งสลับกัน บางครั้งเหมือนถ่ายไม่หมด</item>
+        <item>เลือดปนอุจาระ</item>
+        <item>อุจาระลำเล็กกว่าปกติ</item>
+        <item>ท้องอืดแน่นท้องตลอดเวลา</item>
+        <item>น้ำหนักลด</item>
+        <item>อาเจียน</item>
+
 
     </string-array>
     <string-array name="body_check13">
 
-        <item>body_check13</item>
-        <item>body_check13</item>
-        <item>body_check13</item>
-        <item>body_check13</item>
+        <item>ท้องร่วง บางคนอาจจะเรื้อรัง</item>
+        <item>น้ำหนักลด</item>
+        <item>มีไข้</item>
+        <item>ไอและหายใจลำบาก</item>
+        <item>เหงื่ออกกลางคืน</item>
+        <item>ไข้หนาวสั่น ไข้สูงเรื้อรัง</item>
+        <item>ไอเรื้อรังและหายใจลำบาก</item>
+        <item>ท้องร่วงเรื้อรัง</item>
+        <item>ลิ้นเป็นฝ้าขาว</item>
+        <item>ปวดศีรษะ</item>
+        <item>ตามัวลงหรือเห็นเป็นเส้นลอยไปมา</item>
+        <item>มีผื่นตามตัว</item>
 
     </string-array>
     <string-array name="body_check14">
 
-        <item>body_check14</item>
-        <item>body_check14</item>
-        <item>body_check14</item>
-        <item>body_check14</item>
+        <item>คลำได้ก้อนที่เต้านมหรือรักแร้</item>
+        <item>มีการเปลี่ยนแปลงขนาดของเต้านม</item>
+        <item>มีน้ำไหลออกจากหัวนม</item>
+        <item>เจ็บ หรือหัวนมถูกดึงรั้ง</item>
+        <item>ผิวเต้านมจะเหมือนเปลือกส้ม</item>
+        <item>ปวดกระดูก</item>
+        <item>น้ำหนักลด</item>
+        <item>แผลที่ผิวหนัง</item>
+        <item>แขนบวม</item>
+
+
+
 
     </string-array>
     <string-array name="body_check15">
 
-        <item>body_check15</item>
-        <item>body_check15</item>
-        <item>body_check15</item>
-        <item>body_check15</item>
+        <item>ไอเป็นมากขึ้นเรื่อย</item>
+        <item>เจ็บแน่นหน้าอก</item>
+        <item>ไอเสมหะมีเลือดปน</item>
+        <item>หายใจเหนื่อย เสียงแหบ</item>
+        <item>เป็นปอดบวมหรือปอดอักเสบบ่อย</item>
+        <item>หน้าและคอบวม</item>
+        <item>อ่อนเพลีย เบื่ออาหาร น้ำหนักลด</item>
+
 
     </string-array>
 
